@@ -2,6 +2,10 @@ body {
     background: #efefef;
 }
 
-.nav {
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px 5%;
     background: rgb(65, 1, 65);
 }
