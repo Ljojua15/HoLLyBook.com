@@ -402,3 +402,68 @@
                                                         font-size: 13px;
                                                         color: #9a9a9a;
                                                     }
+                                                    
+                                                    .post-text {
+                                                        color: #9a9a9a;
+                                                        margin: 15px 0;
+                                                        font-size: 15px;
+                                                    }
+                                                    
+                                                    .post-img {
+                                                        width: 100%;
+                                                        border-radius: 4px;
+                                                        margin-bottom: 15px;
+                                                    }
+                                                    
+                                                    .post-row {
+                                                        display: flex;
+                                                        align-items: center;
+                                                        justify-content: space-between;
+                                                    }
+                                                    
+                                                    .iconss div img {
+                                                        width: 25px;
+                                                        margin-right: 10px;
+                                                    }
+                                                    
+                                                    .iconss div {
+                                                        display: inline-flex;
+                                                        align-items: center;
+                                                        margin-right: 30px;
+                                                        margin-left: 10px;
+                                                    }
+                                                    
+                                                    .profile-iconns {
+                                                        display: flex;
+                                                        align-items: center;
+                                                    }
+                                                    
+                                                    .profile-iconns img {
+                                                        width: 30px;
+                                                        border-radius: 50%;
+                                                        margin-right: 10px;
+                                                        margin-bottom: 20px;
+                                                    }
+                                                    
+                                                    .post-row a {
+                                                        color: #9a9a9a;
+                                                    }
+                                                    
+                                                    .loadmore {
+                                                        display: block;
+                                                        margin: auto;
+                                                        cursor: pointer;
+                                                        padding: 5px 10px;
+                                                        border: 1px solid #9a9a9a;
+                                                        color: #626262;
+                                                        background: transparent;
+                                                        border-radius: 4px;
+                                                    }
+                                                    
+                                                    footer {
+                                                        text-align: center;
+                                                        color: #9a9a9a;
+                                                        padding: 10px 0 20px;
+                                                        font-size: 15px;
+                                                    }
+                                                    /* დავიწყოთ დამატება ნავიგაციაში ჯსით 1;57;43 დან გავაგრძელოტ ყურება */
